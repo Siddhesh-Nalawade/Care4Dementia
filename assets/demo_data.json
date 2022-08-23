@@ -1,0 +1,593 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "app_name": "Dementia behaviours - carer support",
+            "app_description": "This App is for carers providing care for a person with dementia.While it is not possible to cover all potential scenarios, it includes the behaviours most commonly reported by carers. Choose the option that best suits your situation: ",
+            "createdAt": "2022-08-09T10:05:23.905Z",
+            "updatedAt": "2022-08-22T06:57:32.920Z",
+            "publishedAt": "2022-08-09T10:39:26.699Z",
+            "general_details": "The physical changes that occur in a person's brain due to dementia can affect their memory, thinking, mood and behaviour. The many other underlying factors that can contribute to behavioural change are often complex and so strategies are never 'one size fits all'. Behaviours may be the person's attempt at communicating their needs when they are no longer able to express these in words. ",
+            "sub_category": [
+                {
+                    "id": 1,
+                    "title": "What is happening with the person with dementia?",
+                    "collection_name": "care_4_dementia_whs"
+                },
+                {
+                    "id": 2,
+                    "title": "Carer support",
+                    "collection_name": "care_4_dementia_carer_supports"
+                },
+                {
+                    "id": 3,
+                    "title": "Carers' stories",
+                    "collection_name": "care_4_dementia_carer_stories"
+                },
+                {
+                    "id": 4,
+                    "title": "General considerations and safety precautions",
+                    "collection_name": "care_4_dementia_gcsps"
+                }
+            ],
+            "care_4_dementia_whs": {
+                "data": [
+                    {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Aggressive behaviours",
+                            "createdAt": "2022-08-08T10:22:54.840Z",
+                            "updatedAt": "2022-08-08T10:24:56.818Z",
+                            "publishedAt": "2022-08-08T10:24:56.816Z",
+                            "description": "Aggressive behaviours in a person with dementia include behaviours that are physically and/or verbally threatening, in response to a situation they are experiencing\n\n**Contact your doctor or closest hospital urgently for advice if you feel that you or others are at risk of immediate physical harm\n**",
+                            "care_4_dementia_sections": {
+                                "data": [
+                                    {
+                                        "id": 1,
+                                        "attributes": {
+                                            "title": "What do these look like in dementia?",
+                                            "createdAt": "2022-08-08T10:24:40.632Z",
+                                            "updatedAt": "2022-08-08T18:07:16.329Z",
+                                            "publishedAt": "2022-08-08T10:24:51.051Z",
+                                            "section": [
+                                                {
+                                                    "id": 12,
+                                                    "heading": "Physically aggressive behaviours",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 18,
+                                                            "sub_heading": "The person with dementia may:",
+                                                            "data": "Hit out at others\nPunch, kick or scratch\nPush or shove other people or objects\nThrow objects\nResist care\nBite or spit\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 13,
+                                                    "heading": "Verbally aggressive behaviours",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 19,
+                                                            "sub_heading": "The person with dementia may:",
+                                                            "data": "Call out loudly\nSay things that are insulting to others\nScream or shout \nSwear or curse\nUse offensive or abusive language\nExperience increased verbally and/or physically aggressive behaviours in the late afternoon/early evening (sundowning)\n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 2,
+                                        "attributes": {
+                                            "title": "What else could this be?",
+                                            "createdAt": "2022-08-08T10:27:01.570Z",
+                                            "updatedAt": "2022-08-08T18:10:03.268Z",
+                                            "publishedAt": "2022-08-08T10:27:25.905Z",
+                                            "section": [
+                                                {
+                                                    "id": 14,
+                                                    "heading": "General Description",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 20,
+                                                            "sub_heading": null,
+                                                            "data": "Aggressive behaviours can occur if the person with dementia is in pain, feeling unwell or has a fever. Seek medical advice; in the meantime consider relief from pain and fever \n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 15,
+                                                    "heading": "Ask the doctor…",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 21,
+                                                            "sub_heading": null,
+                                                            "data": "For urgent help, if you feel that you or others are at risk of harm\nTo check if the person has an illness, infection or delirium\nTo check if the person has pain that they are unable to describe\nTo check for side effects or a reaction to the person's medication\nTo check if the person has underlying depression, anxiety, delusions or  hallucinations\nTo check whether the person could be affected by or withdrawing from alcohol and/or drugs\nTo check if the person's mouth may be causing them pain and/or whether they need to see a dentist\nTo check for an allergic reaction that may make the person irritated and/or restless\nFor information about medications which may help to reduce physically aggressive behaviours if necessary for the safety of the person and/or others \n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 3,
+                                        "attributes": {
+                                            "title": "Why might this be happening?",
+                                            "createdAt": "2022-08-08T10:29:14.340Z",
+                                            "updatedAt": "2022-08-08T18:14:33.932Z",
+                                            "publishedAt": "2022-08-08T10:29:15.652Z",
+                                            "section": [
+                                                {
+                                                    "id": 16,
+                                                    "heading": "The person with dementia",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 22,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to tolerate, and control their reaction to, everyday situations \n"
+                                                        },
+                                                        {
+                                                            "id": 23,
+                                                            "sub_heading": "Always consider these possibilities first:  ",
+                                                            "data": "The person may be in pain but unable to tell you about it; consider their body language for clues e.g. grimacing, increased confusion, reluctance to move a part of the body\nThe person may be medically unwell or they may have an infection or fever; discuss symptoms with their doctor\n"
+                                                        },
+                                                        {
+                                                            "id": 24,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Dehydrated; consider the weather, when they last had a drink and how much they have had to drink in total today\nConstipated; consider when they last opened their bowels and if there has been a change in diet e.g. less fibre and/or fluids\nExperiencing side effects of medication; consider how long it has been since medications have been reviewed and if there have been any recent changes \nTaking medications that are no longer required; check if they are accumulating and/or taking expired medications \nHungry and/or thirsty; the person may no longer recognise the body's signals that they need to eat or drink\nMistakenly feeling threatened and needing to defend themselves\nUncomfortable; consider clothing in relation to the weather and their comfort \nFeeling frustrated or pressured because they can no longer cope with everyday demands\nTired because of disturbed sleep at night \nUncomfortable because their dentures do not fit well and/or may need cleaning; their own teeth may also be causing pain\nFeeling alone, abandoned or separated from their primary carer\nFeeling unwell and/or agitated due to an allergic reaction\nLonely and/or bored; they may no longer be able to seek company or start activities by themselves\nFeeling stressed because they are confused or frightened\nMisinterpreting sights and/or sounds due to impaired vision or hearing\nUnable to wait for their needs to be met because they lack patience e.g. waiting for a meal in a restaurant or large dining room can cause frustration\nFeeling as though their independence is being threatened\nFeeling exposed and/or angry due to a lack of privacy e.g. aware of others talking about their personal matters\nFeeling embarrassed or humiliated if their dignity is not maintained e.g. values and beliefs that have been important to them in the past are ignored\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 17,
+                                                    "heading": "The person's environment",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 25,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to understand their surroundings and what is happening around them \n"
+                                                        },
+                                                        {
+                                                            "id": 26,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Unsettled by changes in their familiar routine, carers and/or surroundings\nDistressed/agitated by the actions of others around them\nResponding to environmental stressors and/or too much stimulation e.g. noise, lighting, temperature\nFeeling confused/agitated due to a lack of familiar people and/or surroundings e.g. in a busy café\nOverwhelmed because they feel that there are too many people around them \nFinding it difficult to see e.g. if room lighting is insufficient\nFeeling trapped, restrained or confined by aspects of their surroundings\nResponding to a situation that they find threatening or disturbing e.g. a large mirror\nFeeling that they have no personal space\nLacking opportunities for meaningful social interaction\nBored and/or not getting enough stimulation from their surroundings\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 18,
+                                                    "heading": "Communicating with the person",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 27,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to express themselves and understand what others say to them \n"
+                                                        },
+                                                        {
+                                                            "id": 28,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Attempting to communicate their needs via the aggressive behaviours\nUnable to focus on what you are saying because they are distracted e.g. by noise, movement, people \nHaving difficulty hearing others due to impaired hearing or wax build up\nStressed/frustrated when others misunderstand them\nUnable to communicate their needs effectively due to declining language skills\nAttempting to communicate in their first language due to increasing difficulty speaking English \nConfused by others' attempts to reason or argue with them\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 20,
+                                                    "heading": "The task or activity",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 29,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to do the things they could previously manage without help\n"
+                                                        },
+                                                        {
+                                                            "id": 30,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Unable to get started on a task\nUnable to recall all the steps of a task or activity\nHaving difficulty understanding what they need to do to complete a task or activity\nUnable to recognise a task as familiar\nAttempting a task with items that are not familiar\nConcerned about making mistakes or failing at tasks they previously found straightforward\nUnintentionally biting a carer in response to attempts to clean their mouth, teeth and/or dentures\n \n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 4,
+                                        "attributes": {
+                                            "title": "What can you do to help? ",
+                                            "createdAt": "2022-08-08T10:34:07.192Z",
+                                            "updatedAt": "2022-08-10T06:17:18.685Z",
+                                            "publishedAt": "2022-08-08T10:38:29.126Z",
+                                            "section": [
+                                                {
+                                                    "id": 21,
+                                                    "heading": "The person with dementia",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 31,
+                                                            "sub_heading": null,
+                                                            "data": "It is important to know the person's story and find out what has previously been meaningful to them\nIdentify individual triggers, frustrations and stressors so these can be minimised and/or avoided\nProvide structure and routine in the person’s day; reduce the need for them to make decisions that they can no longer manage\nMake sure that the person feels safe and comfortable in their surroundings e.g. consider rails and/or a shower chair in the bathroom\nBe aware of early signs that the person is becoming upset or irritated; intervene where possible e.g. obvious tension during conversation with others may be forgotten if the person is directed to something of interest elsewhere\nCheck that glasses and hearing aids are working, fitted correctly and the prescription is current\nMake sure the person's mouth, teeth and/or dentures are kept clean; maintain regular dental check-ups\nConsider additional non-drug ways to relieve pain such as gentle heat and light massage\nWhere possible distract the person from a situation which can cause agitation or aggression by offering activities, food and/or company they enjoy\nSimplifying the person's clothing may allow them to keep their independence for longer by reducing frustration around dressing and maintaining continence e.g. pull on pants and skirts instead of buttons and zippers\nWhere there is a risk of injury, keep the person's fingernails trimmed to avoid them scratching themselves or others\nSeek advice from health professionals about structured activities such as individualised behavioural therapies\nTake steps to maintain the person's dignity e.g. try to maintain their previous standard of dress and grooming\nMaintain the person's privacy in relation to personal matters and sensitive information such as mail, bank and legal documentation\nAvoid restraining or confining the person as these can lead to an increase in aggressive behaviours\n"
+                                                        },
+                                                        {
+                                                            "id": 66,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping \n• Stop \n• Ensure the person with dementia and others are safe\n• Take time out from the situation\n• Supervise them discreetly \n• If possible try again later  \nGo to the carer support section for more advice\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 22,
+                                                    "heading": "The person's environment",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 32,
+                                                            "sub_heading": null,
+                                                            "data": "Modify/simplify the person’s surroundings to support them e.g. clear signage/pictures to indicate the way to the toilet\nDevelop a structured routine; this can provide a reassuring framework that may help to support and engage the person\nHelp the person to identify their room as their own space e.g. with items and/or photographs that remind them of loved ones, previous positive experiences and achievements\nMaintain familiar routines and carers where possible\nThe person's surroundings should encourage and support them to participate in everyday activities e.g. warm bathroom in winter, sunny/shady spots in the garden, meal table not cluttered with too many choices \nConsider background noises that may make it difficult for the person to focus e.g. TV, others' conversations, children playing nearby\nWhere possible, ensure everyday items the person may need can be easily seen\nA change of scenery may provide a distraction or ease increasing tension e.g. taking the person for a drive or a walk; N.B. driving with the person who has already reached the point of aggression is not safe and should not be attempted\nAt times, some forms of stimulation may increase agitation which can lead to aggressive behaviours e.g. their favourite music may be more appropriate than a TV program they can no longer follow\nTake steps to protect the person's modesty e.g. close the curtains when assisting with showering and dressing\n\n"
+                                                        },
+                                                        {
+                                                            "id": 73,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop\n• Ensure the person with dementia and others are safe \n• Take time out from the situation \n• Supervise them discreetly \n• If possible try again later \nGo to the carer support section for more advice"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 23,
+                                                    "heading": "Communicating with the person",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 33,
+                                                            "sub_heading": null,
+                                                            "data": "Stay mindful of your safety when interacting with the person; do not place yourself in a position of risk e.g. directly in front of them or within arm's reach if there is a possibility of aggression\nApproach the person slowly and from a direction that allows them to see you coming; take care not to startle them\nAlways use your name and explain the purpose of your approach; the person may have forgotten who you are even in a short space of time\nYour facial expressions are important e.g. smile and, where appropriate, provide eye contact\nWhile communication with the person should be clear and easy to understand, it is important to approach and speak to them as an adult\nBe aware of your tone of voice and body language; these are just as important as the words you use\nMake sure your posture and movement is non-threatening e.g. don't stand over them\nSpeak clearly and calmly without shouting\nUse short, simple sentences\nAllow extra time for the person to understand what has been said and respond\nProvide reassurance that the person is doing OK\nProvide non-verbal cues e.g. directing, hand movements \nWhen the person is having difficulty answering a question, limit the choices and rephrase the question so a yes/no response is possible\nConsider gentle touch if appropriate and safe\nInclude the person in conversation at a level that they feel comfortable\nWhere the person is repetitive, do not remind them that they have asked you the same question before\nDon’t argue or attempt to reason with the person; they may no longer be able to see a different perspective and this can increase stress \nAvoid confrontation; this will emphasise where the person is having difficulty\n\n"
+                                                        },
+                                                        {
+                                                            "id": 74,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping \n• Stop \n• Ensure the person with dementia and others are safe\n• Take time out from the situation \n• Supervise them discreetly \n• If possible try again later \nGo to the carer support section for more advice"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 24,
+                                                    "heading": "The task or activity",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 34,
+                                                            "sub_heading": null,
+                                                            "data": "Simplify a task by breaking it down into small/fewer steps; provide clear and brief directions at each step\nEnsure the task is undertaken in the most familiar manner possible e.g. showering in the morning or evening according to previous habits\nGive pain relief approximately 30 minutes before tasks that may be uncomfortable e.g. showering, dressing\nAllow flexibility and extra time to attempt and complete tasks e.g. eating meals, using the toilet\nConsider the person's likes and dislikes when trying to engage them in everyday tasks e.g. their favourite music may make them more relaxed during showering\nDo not rush the person to complete a task as this may increase their frustration\nTry activities which support the person’s current strengths and are meaningful to them e.g. folding clean washing, raking leaves outdoors, outings\nConsider the person's current abilities and how they are feeling at the time when planning the duration of an activity; stop before they become agitated or bored\nRecognise when the person is feeling tired and avoid attempting tasks they find challenging at these times\nIf making a decision has become difficult for the person, reduce the choices e.g. show only one item of clothing at a time during dressing, place one plate at a time in front of them when serving meals\nBe flexible when assisting with personal care activities e.g. if combing the person's hair prompts aggression, a soft brush may be more comfortable\nProvide opportunities for safe walking and/or exercise within the limits of their current state of health if this eases agitation which can lead to aggressive behaviours\nChoose your battles carefully; avoid causing the person stress over tasks that can wait until they are more settled and able to cope\nAvoid drawing attention to failed attempts\n\n"
+                                                        },
+                                                        {
+                                                            "id": 75,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop \n• Ensure the person with dementia and others are safe\n• Take time out from the situation \n• Supervise them discreetly \n• If possible try again later  \nGo to the carer support section for more advice"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "attributes": {
+                            "title": "Agitated behaviours",
+                            "createdAt": "2022-08-10T05:56:47.986Z",
+                            "updatedAt": "2022-08-10T06:18:19.067Z",
+                            "publishedAt": "2022-08-10T06:18:19.066Z",
+                            "description": "Agitated behaviours in a person with dementia are restless and repetitive behaviours that cause distress and appear to be without purpose, in response to a situation that they are experiencing\n",
+                            "care_4_dementia_sections": {
+                                "data": [
+                                    {
+                                        "id": 5,
+                                        "attributes": {
+                                            "title": "What do these look like in dementia?",
+                                            "createdAt": "2022-08-10T05:57:43.246Z",
+                                            "updatedAt": "2022-08-10T06:18:00.855Z",
+                                            "publishedAt": "2022-08-10T06:18:00.853Z",
+                                            "section": [
+                                                {
+                                                    "id": 31,
+                                                    "heading": null,
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 52,
+                                                            "sub_heading": "The person with dementia may:",
+                                                            "data": "Appear uneasy or tense\nBe irritable\nBe very restless and unable to sit still\nFidget and/or do things repeatedly\nPace up and down repeatedly\nCall out and/or shout\nCall out in distress\nUndress and/or dress repeatedly\nResist care\nExperience increased agitation in the late afternoon/early evening (sundowning)\n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 6,
+                                        "attributes": {
+                                            "title": "What else could this be?",
+                                            "createdAt": "2022-08-10T05:59:07.767Z",
+                                            "updatedAt": "2022-08-10T06:18:13.680Z",
+                                            "publishedAt": "2022-08-10T06:18:13.677Z",
+                                            "section": [
+                                                {
+                                                    "id": 32,
+                                                    "heading": null,
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 53,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Agitated behaviours can occur if the person with dementia is in pain, feeling unwell or has a fever. Seek medical advice; in the meantime consider relief from pain and fever\n"
+                                                        },
+                                                        {
+                                                            "id": 54,
+                                                            "sub_heading": "Ask the doctor…",
+                                                            "data": "To check if the person has an illness, infection or delirium\nTo check if the person has pain that they are unable to describe\nTo check for side effects or a reaction to the person's medication\nTo check if the person's mouth may be causing them pain and/or whether they need to see a dentist\nTo check if the person has underlying depression or anxiety\nTo check for symptoms of an allergic reaction that may be increasing irritation and/or restlessness\nTo check whether the person is affected by or withdrawing from alcohol and/or other drugs \n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 7,
+                                        "attributes": {
+                                            "title": "Why might this be happening?",
+                                            "createdAt": "2022-08-10T06:03:23.234Z",
+                                            "updatedAt": "2022-08-10T06:17:52.041Z",
+                                            "publishedAt": "2022-08-10T06:17:52.040Z",
+                                            "section": [
+                                                {
+                                                    "id": 33,
+                                                    "heading": "The person with dementia",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 55,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to tolerate, and control their reaction to, everyday situations \n"
+                                                        },
+                                                        {
+                                                            "id": 56,
+                                                            "sub_heading": "Always consider these possibilities first:",
+                                                            "data": "The person may be in pain but unable to tell you about it; consider their body language for clues e.g. increased confusion, reluctance to move a part of the body, withdrawing from social situations\nThe person may be medically unwell or they may have an infection or fever; discuss symptoms with their doctor\n"
+                                                        },
+                                                        {
+                                                            "id": 57,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Dehydrated; consider the weather, when they last had a drink and how much they have had to drink in total today\nConstipated; consider when they last opened their bowels and if there has been a change in diet e.g. less fibre and/or fluids\nExperiencing side effects of medication; consider how long it has been since medications have been reviewed and if there have been any recent changes \nTaking medications that are no longer required; check if they are accumulating and/or taking expired medications \nHungry and/or thirsty; the person may no longer recognise the body's signals that they need to eat or drink\nFeeling frustrated or pressured because they can no longer cope with everyday demands\nUncomfortable; consider clothing in relation to the weather and the person's comfort \nTired because of disturbed sleep at night \nLonely and/or bored; they may no longer be able to seek company or start activities by themselves\nFeeling alone, abandoned or separated from their primary carer\nMisinterpreting sights and/or sounds due to impaired vision or hearing\nStressed or anxious because they are confused or frightened\nUncomfortable because their dentures do not fit well and/or may need cleaning; their own teeth may also be causing pain\nFeeling unwell and/or agitated due to an allergic reaction\nUnable to wait for their needs to be met because they lack patience e.g. waiting for a meal in a restaurant or large dining room can cause frustration\nFeeling that their independence is threatened\nFeeling exposed and/or angry due to a lack of privacy e.g. aware of others talking about their personal matters\nEmbarrassed or humiliated if their dignity is not maintained e.g. values and beliefs that have been important to them in the past are ignored\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 34,
+                                                    "heading": "The person's environment",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 58,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to understand  their surroundings and what is happening around them \n"
+                                                        },
+                                                        {
+                                                            "id": 59,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Unsettled by changes in their familiar routine, carers and/or surroundings\nDistressed/agitated by the actions of others around them\nResponding to environmental stressors and/or too much stimulation e.g. noise, lighting, temperature\nConfused/anxious in unfamiliar surroundings e.g. unable to find the toilet\nOverwhelmed because they feel that there are too many people around them \nFinding it difficult to see e.g. if room lighting is insufficient\nResponding to a situation that they find threatening or disturbing e.g. a large mirror\nFeeling that they have no personal space\nLacking opportunities for meaningful social interaction\nBored and/or not getting enough stimulation from their surroundings\nFeeling trapped, restrained or confined by aspects of their surroundings\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 35,
+                                                    "heading": "Communicating with the person",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 60,
+                                                            "sub_heading": "General Discription",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to express themselves and understand what others say to them \n"
+                                                        },
+                                                        {
+                                                            "id": 61,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Attempting to communicate their needs via the agitated behaviours\nUnable to focus on what you are saying because they are distracted e.g. by noise, movement, people \nHaving difficulty hearing others due to impaired hearing or wax build up\nStressed/frustrated when others misunderstand them\nUnable to communicate their needs effectively due to declining language skills\nAttempting to communicate in their first language due to increasing difficulty speaking English \nConfused by others' attempts to reason or argue with them\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 36,
+                                                    "heading": "The task or activity",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 62,
+                                                            "sub_heading": "General Description",
+                                                            "data": "Physical changes to the person's brain due to dementia can make it difficult for them to do the things they could previously manage without help\n"
+                                                        },
+                                                        {
+                                                            "id": 63,
+                                                            "sub_heading": "The person with dementia may also be:",
+                                                            "data": "Unable to get started on a task\nUnable to recall all the steps of a task or activity\nHaving difficulty understanding what they need to do to complete a task or activity\nUnable to recognise a task as familiar\nAttempting a task with items that are not familiar\nConcerned about making mistakes or failing at tasks that they have previously found straightforward\n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": 8,
+                                        "attributes": {
+                                            "title": "What can you do to help? ",
+                                            "createdAt": "2022-08-10T06:11:54.143Z",
+                                            "updatedAt": "2022-08-10T06:17:37.642Z",
+                                            "publishedAt": "2022-08-10T06:17:37.640Z",
+                                            "section": [
+                                                {
+                                                    "id": 37,
+                                                    "heading": "The person with dementia",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 64,
+                                                            "sub_heading": null,
+                                                            "data": "It is important to know the person's story and find out what has previously been meaningful to them\nIdentify individual triggers, frustrations and stressors so these can be minimised and/or avoided\nProvide structure and routine in the person’s day; reduce the need for them to make decisions that they can no longer manage\nMake sure that the person feels safe and comfortable in their surroundings e.g. consider rails and/or a shower chair in the bathroom\nWhere possible distract the person from a situation which is increasing their agitation by offering activities, food and/or company they enjoy\nBe aware of early signs that the person is becoming unsettled or irritated; intervene where possible e.g. obvious tension during conversation with others may be forgotten if the person is directed to something of interest elsewhere\nConsider additional non-drug ways to relieve pain such as gentle heat and light massage\nCheck that glasses and hearing aids are working, fitted correctly and the prescription is current\nMake sure the person's mouth, teeth and/or dentures are kept clean; maintain regular dental check-ups\nSimplifying the person's clothing may allow them to keep their independence for longer by reducing frustration around dressing and maintaining continence e.g. pull on pants and skirts instead of buttons and zippers\nWhere there is a risk of injury, keep the person's fingernails trimmed to avoid them scratching themselves or others\nTake steps to maintain the person's dignity e.g. try to maintain their previous standard of dress and grooming\nMaintain the person's privacy in relation to personal matters and sensitive information such as mail, bank and legal documentation\nAvoid restraining or confining the person as these can lead to an increase in agitation which could result in aggressive behaviours\n"
+                                                        },
+                                                        {
+                                                            "id": 65,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop\n• Ensure the person with dementia and others are safe\n• Take time out from the situation\n• Supervise them discreetly\n• If possible try again later\n\nGo to the carer support section for more advice\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 38,
+                                                    "heading": "The person's environment",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 67,
+                                                            "sub_heading": null,
+                                                            "data": "Modify/simplify the person’s surroundings to support them e.g. clear signage/pictures to indicate the way to meals\nHelp the person to identify their room as their own space e.g. with items and/or photographs that remind them of loved ones, previous positive experiences and achievements\nMaintain familiar routines and carers where possible\nThe person's surroundings should encourage and support them to participate in everyday activities e.g. warm bathroom in winter, sunny/shady spots in the garden, meal table not cluttered with too many choices \nConsider background noises that may make it difficult for the person to focus e.g. TV, others' conversations, children playing nearby\nWhere possible, ensure everyday items the person may need can be easily seen \nAt times, some forms of stimulation may cause agitation e.g. their favourite music may be more appropriate than a TV program they can no longer follow\nTake steps to protect the person's modesty e.g. close the curtains when assisting with showering and dressing\nA change of scenery may provide a distraction or ease increasing tension e.g. taking the person for a drive or a walk; N.B. driving with the person who is already agitated may not be safe\n"
+                                                        },
+                                                        {
+                                                            "id": 68,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop\n• Ensure the person with dementia and others are safe\n• Take time out from the situation\n• Supervise them discreetly\n• If possible try again later\n\nGo to the carer support section for more advice\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 39,
+                                                    "heading": "Communicating with the person",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 69,
+                                                            "sub_heading": null,
+                                                            "data": "Approach the person slowly and from the front; take care not to startle them\nAlways use your name and explain the purpose of your approach; the person may have forgotten who you are even in a short space of time\nYour facial expressions are important e.g. smile and, where appropriate, provide eye contact\nWhile communication with the person should be clear and easy to understand, it is important to approach and speak to them as an adult\nBe aware of your tone of voice and body language; these are just as important as the words you use\nMake sure your posture and movement is non-threatening e.g. don't stand over them\nSpeak clearly and calmly without shouting\nUse short, simple sentences\nProvide non-verbal cues e.g. directing, hand movements\nAllow extra time for the person to understand what has been said and respond\nProvide reassurance that the person is doing OK\nWhen the person is having difficulty answering a question, limit the choices and rephrase the question so a yes/no response is possible\nConsider gentle touch where appropriate\nInclude the person with dementia in conversation at a level that they feel comfortable\nWhere the person is repetitive, do not remind them that they have asked you the same question before\nDon’t argue or attempt to reason with the person; they may no longer be able to see a different perspective and this can increase stress \nAvoid confrontation; this will emphasise where the person is having difficulty\n"
+                                                        },
+                                                        {
+                                                            "id": 70,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop\n• Ensure the person with dementia and others are safe\n• Take time out from the situation\n• Supervise them discreetly\n• If possible try again later\n\nGo to the carer support section for more advice\n"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 40,
+                                                    "heading": "The task or activity",
+                                                    "sub_section": [
+                                                        {
+                                                            "id": 71,
+                                                            "sub_heading": null,
+                                                            "data": "Simplify a task by breaking it down into small/fewer steps; provide clear and brief directions at each step\nEnsure the task is undertaken in the most familiar manner possible e.g. showering in the morning or evening according to previous habits\nGive pain relief approximately 30 minutes before tasks that may be uncomfortable e.g. showering, dressing\nDo not rush the person to complete a task as this may increase levels of frustration and agitation\nAllow flexibility and extra time to attempt and complete tasks e.g. eating meals, using the toilet\nTry activities which support the person’s current strengths and are meaningful to them e.g. folding clean washing, raking leaves outdoors, outings\nConsider the person's current abilities and how they are feeling at the time when planning the duration of an activity; stop before they become agitated\nBe flexible when assisting with personal care activities e.g. consider an electric shaver if the person is no longer able to shave safely with a razor\nRecognise when the person is feeling tired and avoid attempting tasks they find challenging at these times\nIf making a decision has become difficult for the person, reduce the choices e.g. show only one item of clothing at a time during dressing, place one plate at a time in front of them when serving meals\nProvide opportunities for safe walking and/or exercise within the limits of their current state of health if this eases agitation or provides a distraction from their distress\nConsider the person's likes and dislikes when trying to engage them in everyday tasks e.g. their favourite music may make them more comfortable during showering\nSeek advice from health professionals about calming activities that may reduce agitation e.g. music therapy\nChoose your battles carefully; avoid causing the person stress over tasks that can wait until they are more settled and able to cope\nAvoid drawing attention to failed attempts \n"
+                                                        },
+                                                        {
+                                                            "id": 72,
+                                                            "sub_heading": null,
+                                                            "data": "If strategies are not helping\n• Stop\n• Ensure the person with dementia and others are safe\n• Take time out from the situation\n• Supervise them discreetly\n• If possible try again later\n\nGo to the carer support section for more advice\n"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "care_4_dementia_carer_supports": {
+                "data": [
+                    {
+                        "id": 3,
+                        "attributes": {
+                            "title": "Seeking ongoing support",
+                            "createdAt": "2022-08-17T06:13:50.837Z",
+                            "updatedAt": "2022-08-17T06:13:51.727Z",
+                            "publishedAt": "2022-08-17T06:13:51.725Z",
+                            "sub_section": [
+                                {
+                                    "id": 89,
+                                    "sub_heading": null,
+                                    "data": "Accept assistance; allowing others to provide support does not mean you are failing in your caring role\nBalancing your needs with the demands of caring often becomes increasingly difficult; make some regular time to pursue your own interests and/or relaxation\nAsk dementia support services about access to respite care in the home or in residential care so that you can ‘recharge your batteries’\nConsider day care or outings for the person with dementia to give you time for yourself\nLook after your own health; do not neglect your medical appointments\nTry to maintain a healthy diet, adequate sleep and regular exercise \nMaintain social contacts, friendships and time with family\nAcknowledge that feelings of grief and loss can be normal as the person with dementia changes with the progression of the disease\nKeep in regular contact with your doctor and/or health care professional to discuss a workable routine, day-to-day strategies and ongoing review\nConsider attending a local carer support group to talk things over with others in a similar situation; for more information contact Alzheimer's Australia on 1800 100 500 during business hours or visit their website \nConsider attending education sessions to learn strategies; for more information contact Alzheimer's Australia on 1800 100 500 during business hours or visit their website \nConsider attending the Living with Memory Loss Program; for more information contact Alzheimer's Australia on 1800 100 500 or visit their website \nFor information and support contact Alzheimer's Australia National Dementia Helpline on 1800 100 500 during business hours or visit their website\nFor short-term counselling and emotional support for carers contact the National Carer Counselling Program on 1800 242 636 during business hours or visit their website  \nFor information on local carer support and community services contact the Commonwealth Respite and Carelink Centre on 1800 052 222 during business hours\nFor information on aged care services and assessment for eligibility contact My Aged Care on 1800 200 422 during extended business hours Monday to Saturday or visit their website \nFor advice on helping a person with dementia to live independently and safely contact the National Independent Living Centre Infoline on 1300 885 886 during business hours or visit their website  \nTo pre-book a phone interpreter in advance of an appointment contact the Translating and Interpreting phone service (TIS) via their website\nFor information on financial support for carers contact Centrelink on 132 717 during business hours or visit their website\n"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "attributes": {
+                            "title": "Seeking support now",
+                            "createdAt": "2022-08-18T05:56:59.756Z",
+                            "updatedAt": "2022-08-18T05:57:01.267Z",
+                            "publishedAt": "2022-08-18T05:57:01.266Z",
+                            "sub_section": [
+                                {
+                                    "id": 90,
+                                    "sub_heading": null,
+                                    "data": "When you need time out from a stressful situation ensure the person with dementia is safe and take a short break\nWhen nothing you try seems to be helping, attempt to distract the person from the current situation with something they enjoy and try again later\nEnsure you have a safe space to go to if needed e.g. neighbour, room with a lock on the door\nCall a trusted friend or family member\nSpeak to a trusted health professional such as a GP, practice nurse, pharmacist and/or social worker\nFor clinical support contact the Dementia Behaviour Management Advisory Services (DBMAS) 24 hour helpline on 1800 699 799 or visit their website \nFor information on local carer support and community services contact the Commonwealth Respite and Carelink Centre on 1800 052 222 during business hours\nFor short-term carer counselling and emotional support contact the National Carer Counselling Program on 1800 242 636 during business hours or visit their website  \nFor information and support contact Alzheimer's Australia National Dementia Helpline on 1800 100 500 during business hours or visit their website\nFor information on aged care services and assessment contact My Aged Care on 1800 200 422 during extended business hours Monday to Saturday or visit their website \nTo access an immediate phone interpreter service contact the Translating and Interpreting phone service (TIS) on 131 450 or visit their website\n"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "care_4_dementia_carer_stories": {
+                "data": [
+                    {
+                        "id": 1,
+                        "attributes": {
+                            "title": "Sleep pattern changes",
+                            "createdAt": "2022-08-09T04:23:36.311Z",
+                            "updatedAt": "2022-08-10T06:54:21.973Z",
+                            "publishedAt": "2022-08-09T04:24:22.852Z",
+                            "sub_section": [
+                                {
+                                    "id": 35,
+                                    "sub_heading": "Background",
+                                    "data": "George has been recently widowed. His family has been increasingly supporting him in his own home since his diagnosis of dementia some years ago. Since their mother's death, George's four daughters have taken turns in staying with him overnight and community care services are visiting three mornings each week.\nGeorge's sleeping patterns have become very irregular. He is frequently awake at night and wanders from room to room, turning on the lights, radio and/or television. When his daughters attempt to settle him back to bed they find that their father is very confused and can become agitated. George's family is determined to keep him at home as long as they can, however his nighttime behaviours mean that his daughters are exhausted the next day when they must meet their work and family commitments.\nIn the mornings George tends to sleep late and finds it difficult to get out of bed for his breakfast and shower when the care workers visit to assist. The community service provider has already rescheduled George’s visits to happen as late as possible.\n"
+                                },
+                                {
+                                    "id": 36,
+                                    "sub_heading": "The GP has checked for the following:",
+                                    "data": "·  Pain/discomfort/illness/infection/constipation that may disrupt George's sleep\n·  Medication effects: interactions, dosage, recently prescribed, side effects\n·  Delirium and primary sleep disorders e.g. restless legs syndrome, sleepwalking, sleep apnoea\n·  General health concerns including blood tests, urine tests and/or cognitive assessment as needed\n"
+                                },
+                                {
+                                    "id": 37,
+                                    "sub_heading": "Other potentially contributing factors have been considered:",
+                                    "data": "·  Disturbances at night from noise, people and/or activities in or around George’s home\n·  Unsettling changes to George’s routine\n·  George’s declining ability to effectively communicate his needs/concerns to the family, particularly during the night\n·  Whether too much is expected of him for his current level of dementia\n·  George’s reduced ability for coping with stress due to his advancing dementia\n·  George’s recent loss and ongoing grief in light of his dementia; at times he forgets why his wife isn't in the bed next to him when he stirs at night\n"
+                                },
+                                {
+                                    "id": 86,
+                                    "sub_heading": "A health professional has suggested the following strategies:",
+                                    "data": "·  Observe for triggers that indicate when George is becoming unsettled during the evening prior to bedtime so these situations can be avoided, reduced or managed wherever possible\n·  Develop a plan for managing George’s disturbed nights so all his daughters can adopt a consistent routine and approach to preparing him for sleep and the nighttime behaviours\n·  Encourage George to express his needs as far as he is able; allow him sufficient time to communicate\n·  George's daughters could seek carer education to learn the most effective ways of supporting him and meet other carers for friendship/support\n·  Seek occasional respite care\n"
+                                },
+                                {
+                                    "id": 87,
+                                    "sub_heading": "Some outcomes",
+                                    "data": "·  George's bedroom is close to a busy road where obvious traffic noise and headlights continue throughout much of the night; prior to his wife's death he would have rolled over and gone back to sleep if disturbed by these\n·  George was persuaded to move into a quieter, darker back bedroom; as it faced east, it also received the first morning light which encouraged him to wake earlier\n·  A small night light in his bedroom and in the bathroom assisted George with orientation when he needed to use the bathroom at night\n ·  During discussion to develop a plan, George's daughters realised that a television program that had been their father's favourite was now difficult for him to follow and sometimes caused him great frustration; more relaxing activities were offered during the evening \n·  Consistent nighttime routines (sleep hygiene) were put in place across George's week; in time a regular bedtime and pattern were established\n·  While George was still awake at times during the night, the situation was more manageable and less disruptive to both his, and his daughter's daytime activities\n"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "care_4_dementia_gcsps": {
+                "data": [
+                    {
+                        "id": 1,
+                        "attributes": {
+                            "createdAt": "2022-08-22T06:56:29.674Z",
+                            "updatedAt": "2022-08-22T06:56:39.481Z",
+                            "publishedAt": "2022-08-22T06:56:39.479Z",
+                            "sub_section": [
+                                {
+                                    "id": 91,
+                                    "sub_heading": "Immediate risk",
+                                    "data": "\"Contact your closest hospital urgently if you feel that you or others are at risk of immediate physical harm\",\n\"Be alert to the possibility of untreated pain; a person with dementia may be unable to tell you that they are in pain\",\n\"Dehydration can cause confusion; a person with dementia may not recognise the body's signals that they need to drink\",\n\"Seek medical advice promptly if a person with dementia has stopped eating drinking and/or taking prescribed medications\",\n\"Suicidal thoughts or ideas in a person with dementia who is depressed increases their risk of harm; discuss the need for specialist assessment with their doctor\",\n\"If the person with dementia has a plan for how they will commit, seek urgent medical attention\""
+                                },
+                                {
+                                    "id": 92,
+                                    "sub_heading": "The person with dementia's safety",
+                                    "data": "\"Where wandering is a risk, ensure the person has a form of identification with your contact details on them at all times and keep a recent photograph of the person handy should you need to call on emergency services\",\n\"Disrupted sleep and/or wandering at night increases the risk of falls and injury; provide night lights where needed\",\n\"Consider exit alarms or monitoring devices where the person is at risk of wandering into danger; balance their level of independence with the degree of risk\",\n\"Those with apathy or depression in dementia are particularly at risk of neglect when they are unable to express their needs; the risk increases if the person lives alone\""
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "meta": {}
+}
